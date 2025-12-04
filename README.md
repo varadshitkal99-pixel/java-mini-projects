@@ -1,0 +1,2 @@
+# jabhascirpt
+repo of js
